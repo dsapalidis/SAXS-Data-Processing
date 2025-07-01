@@ -13,5 +13,5 @@ SAXS software and tools is a Python package containing mostly jupyter notebooks 
 4. Calculation of the uncertainties' propagation on the final I-q data sheets
    
 
-- **Website:** https://www.empa.ch/web/s499
-- **Bugs** dsapalidis@gmail.com, mohamed.krichene@epfl.ch
+- **Website:** 
+- **Bugs** dsapalidis@gmail.com
